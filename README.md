@@ -47,10 +47,10 @@ I have built upon a number of other skills over the last twenty years. I started
 ## Qualifictions
 
 * Graduate of Makers Academy Ronin Cohort from October 2015 - January 2016
-* Post Graduate Diploma in Computer Forensics, University of Westminster
-* Certified Information Systems Security Professional (CISSP)
-* Certified Ethical Hacker (CEH)
-* BSc (Hons) Computer Science, University of Hertfordshire
+* Post Graduate Diploma in Computer Forensics, University of Westminster - 2008
+* Certified Information Systems Security Professional (CISSP) - 2009
+* Certified Ethical Hacker (CEH) - 2008
+* BSc (Hons) Computer Science, University of Hertfordshire - 1988 to 1992
 
 ## Career so far
 
