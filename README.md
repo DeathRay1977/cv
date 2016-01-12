@@ -1,5 +1,7 @@
 # Norm Fasey - CV
 
+![Norm Fasey](http://i.imgur.com/aNJ4uDQ.jpg)
+
 ## Introduction
 
 Last year, I tried something crazy! After working for 20 years in Banking software as a software engineer using C++, I decided I wanted to attempt a Career shift into Web Development. Not a very big shift, I know! It is, however, a shift in technologies, culture, development practices and just in the way we think about software and the way we write it. I love to write software... Good software that is well written, easy to maintain and beautiful to read. 
@@ -64,3 +66,5 @@ This is where I started my development career. My very first project as a rookie
 *An active mind is a healthy mind*
 
 My interests are very much intertwined with my career. I love to keep abreast of new technologies and programming languages. I like to attend Tech meetups in London when I can. I practice yoga regularly as it is good for both mind and body. I play wheelchair tennis and like to get outdoors on long walks to clear the mind of the clutter of everyday life. I like to play guitar. I sometimes like to binge watch whole TV series during the long nights of winter.
+
+I like to [blog](http://deathray1977.net/thinking/)
