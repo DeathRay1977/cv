@@ -18,6 +18,8 @@ I have worked with a number of technologies over the last twenty years. I don't 
 
 Whilst most of my career up to date has involved using C++, I am a bit of a polyglot and language nut. Perl used to be my 'go to' language when I wanted to script something on the command line. Then I discovered Ruby, the community around the language, it's tools and paradigms. For the last four years, it has been my language of choice for personal projects. Recently I have started to use Javascript even more. I had heard horror stories about its weirdness and strange ways of doing things but I must say I have a liking for it. Nobody is more surprised than me! I also love to dabble in Coffeescript and am looking forward to the day that ES6 gains traction. Other highlights would be HTML5 and CSS3 because of their simplicity and power. I have also taught myself some of the functional programming languages such as Elixir and Clojure.
 
+I like to [blog](http://deathray1977.net/thinking/) about my musings on different languages and technologies too.
+
 ### Frameworks
 
 I have been working in different front-end and back-end web frameworks and really like the way they can speed up the process of creating an application. I love the 'convention over configuration' approach of Ruby on Rails. I think the speed and performance of Node.js with Express is something that cannot be overlooked. For simpler applications, I like to use Sinatra. I love front-end frameworks like Angular.js for its simplicity of design, dependancy injection and extensions to HTML. JQuery is also I great library built on Javascript that I enjoy using and look forward to using more in the future. I would consider myself to be a 'journeyman' in all these technologies. 
@@ -68,4 +70,3 @@ This is where I started my development career. My very first project as a rookie
 
 My interests are very much intertwined with my career. I love to keep abreast of new technologies and programming languages. I like to attend Tech meetups in London when I can. I practice yoga regularly as it is good for both mind and body. I play wheelchair tennis and like to get outdoors on long walks to clear the mind of the clutter of everyday life. I like to play guitar. I sometimes like to binge watch whole TV series during the long nights of winter.
 
-I like to [blog](http://deathray1977.net/thinking/)
