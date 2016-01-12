@@ -1,5 +1,4 @@
-# Norm Fasey - CV
-
+# Norm Fasey
 
 ## Introduction
 
