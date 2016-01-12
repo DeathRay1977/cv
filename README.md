@@ -36,7 +36,7 @@ I have built upon a number of other skills over the last twenty years. I started
 | --- | --- | --- |
 | [Bowling Challenge](https://github.com/DeathRay1977/bowling-challenge) | Devise a scoring system for Ten Pin Bowling | Javascript, JQuery, Jasmine | 
 | [Instagram Challenge](https://github.com/DeathRay1977/instagram-challenge) | Create an Instagram Clone | Ruby on Rails, Twitter Bootstrap, Cucumber for BDD |
-| [Auto-Pair](https://github.com/DeathRay1977/Auto-pair) | Pre Screening for Makers Candidates | Ruby on Rails, JSON API's, Angular JS |
+| [Auto-Pair](https://github.com/DeathRay1977/Auto-pair) | Pre Screening for Makers Candidates. Part of a four man team | Ruby on Rails, JSON API's, Angular JS |
 | [Fizzbuzz](https://github.com/DeathRay1977/fizzbuzz)| Fizzbuzz Kata | Ruby, Rspec |
 | [Fizzbuzz-js](https://github.com/DeathRay1977/fizzbuzz-js)| Fizzbuzz in Javascript | Node.js and Jasmine |
 | [Exercism](https://github.com/DeathRay1977/exercism) | Various code katas | Ruby, Clojure, Elixir and Python |
