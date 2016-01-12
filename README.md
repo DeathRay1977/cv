@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Last year, I tried something crazy! After working for 20 years in Banking software as a software engineer using C++, I decided I wanted to attempt a Career shift into Web Development. Not a very big shift, I know! It is, however, a shift in technologies, culture, development practices and just in the way we think about software and the way we write it. I love to write software... Good software that is well written, easy to maintain and beautiful to read. 
+Last year, I tried something crazy! After working for 20 years in Banking software as a software engineer using C++, I decided I wanted to attempt a Career shift into Web Development. Not a very big shift, I know! It is, however, a shift in technologies, culture, development practices and the way we think about and write software. I love to write software... Good software that is well written, easy to maintain and beautiful to read. 
 
 Then something significant happened. The company I was working for (a big multi-national with thousands of employees Worldwide) was downsizing and offering an awesome severence package for those who wanted to take it. It seemed like the time was right to follow the dream. I said goodbye and turned my attention to what I really wanted to do. 
 
