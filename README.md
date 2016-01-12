@@ -40,6 +40,7 @@ I have built upon a number of other skills over the last twenty years. I started
 | [Fizzbuzz](https://github.com/DeathRay1977/fizzbuzz)| Fizzbuzz Kata | Ruby, Rspec |
 | [Fizzbuzz-js](https://github.com/DeathRay1977/fizzbuzz-js)| Fizzbuzz in Javascript | Node.js and Jasmine |
 | [Exercism](https://github.com/DeathRay1977/exercism) | Various code katas | Ruby, Clojure, Elixir and Python |
+| [To-doify](https://github.com/DeathRay1977/todo_challenge) | To-do app. The 'Hello World' of MV* frameworks | Node.js, Express, Angular JS, Protractor |
 
 ## Qualifictions
 
