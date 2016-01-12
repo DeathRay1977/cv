@@ -22,15 +22,15 @@ I like to [blog](http://deathray1977.net/thinking/) about my musings on differen
 
 ### Frameworks
 
-I have been working in different front-end and back-end web frameworks and really like the way they can speed up the process of creating an application. I love the 'convention over configuration' approach of Ruby on Rails. I think the speed and performance of Node.js with Express is something that cannot be overlooked. For simpler applications, I like to use Sinatra. I love front-end frameworks like Angular.js for its simplicity of design, dependancy injection and extensions to HTML. JQuery is also I great library built on Javascript that I enjoy using and look forward to using more in the future. I would consider myself to be a 'journeyman' in all these technologies. 
+I have been working in different front-end and back-end web frameworks and really like the way they can speed up the process of creating an application. I love the 'convention over configuration' approach of Ruby on Rails. I think the speed and performance of Node.js with Express is something that cannot be overlooked. For simpler applications, I like to use Sinatra. I love front-end frameworks like Angular.js for its simplicity of design, dependancy injection and extensions to HTML. JQuery is also a great library built on Javascript that I enjoy using and look forward to using more in the future. I would consider myself to be a 'journeyman' in all these technologies. 
 
 ### Testing 
 
-I love to develop using Test Driven Development (TDD). In Ruby I reach for Rspec. For Javascript, I love to use Jasmine. For Behavior Driven Development, I love the simplicity of technologies such as Cucumber, Protractor and Capybara.
+I love to develop using Test Driven Development (TDD). In Ruby I reach for Rspec. For Javascript, I love to use Jasmine and Karma. For Behavior Driven Development (BDD), I love the simplicity of technologies such as Cucumber, Protractor and Capybara.
 
 ### Other Skills
 
-I have built upon a number of other skills over the last twenty years. I started my career as a Graduate Programmer and worked my way up to a Senior Developer and Software architect. I have worked on the full software lifecycle from requirements gathering, design using OOD, programming using OOP, Integration and System testing. I have used many tools for software change control such as Git, Clearcase and CVS.
+I have built upon a number of other skills over the last twenty years. I started my career as a Graduate Programmer and worked my way up to a Senior Developer and Software architect. I have worked on the full software lifecycle from requirements gathering, design using OOD, programming using OOP, Integration and System testing. I have used many tools for software change control such as Git, Clearcase and CVS. Vim is my favourite text editor - much to the amusement of my colleagues!
 
 ### Examples of my work
 
@@ -68,5 +68,5 @@ This is where I started my development career. My very first project as a rookie
 
 *An active mind is a healthy mind*
 
-My interests are very much intertwined with my career. I love to keep abreast of new technologies and programming languages. I like to attend Tech meetups in London when I can. I practice yoga regularly as it is good for both mind and body. I play wheelchair tennis and like to get outdoors on long walks to clear the mind of the clutter of everyday life. I like to play guitar. I sometimes like to binge watch whole TV series during the long nights of winter.
+My interests are very much intertwined with my career. I love to keep abreast of new technologies and programming languages. I like to attend Tech meetups in London when I can. I practice yoga regularly as it is good for both mind and body. I play wheelchair tennis and like to get outdoors on long walks to clear the mind of the clutter of everyday life. I like to play guitar [badly]. I sometimes like to binge watch whole TV series during the long nights of winter.
 
