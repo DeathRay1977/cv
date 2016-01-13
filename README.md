@@ -6,6 +6,8 @@ Last year, I tried something crazy! After working for 20 years in Banking softwa
 
 Then something significant happened. The company I was working for (a big multi-national with thousands of employees Worldwide) was downsizing and offering an awesome severence package for those who wanted to take it. It seemed like the time was right to follow the dream. I said goodbye and turned my attention to what I really wanted to do. 
 
+I am looking for a role that will allow me to build on my past experience and expand into new and exciting areas of Software engineering.
+
 Confucius once said *A man who loves his job never works a day in his life* 
 
 ## Skills
@@ -43,18 +45,17 @@ I enjoy:
 
 ## Qualifictions
 
-**Graduate of Makers Academy Ronin Cohort from October 2015 - January 2016**
-* Curiosity and hungry passion for code
-* Independent learner and problem-solver
-* OOP, TDD, SOLID, MVC, DDD
-* Software Craftsmanship
-* Ruby, Rails, Javascript, Node.js, Angular.js
-* Rspec, Jasmine, Mocha
-
-**Post Graduate Diploma in Computer Forensics, University of Westminster - 2008**
-**Certified Information Systems Security Professional (CISSP) - 2009**
-**Certified Ethical Hacker (CEH) - 2008**
-**BSc (Hons) Computer Science, University of Hertfordshire - 1988 to 1992**
+* Graduate of Makers Academy Ronin Cohort from October 2015 - January 2016
+   * Curiosity and hungry passion for code
+   * Independent learner and problem-solver
+   * OOP, TDD, SOLID, MVC, DDD
+   * Software Craftsmanship
+   * Ruby, Rails, Javascript, Node.js, Angular.js
+   * Rspec, Jasmine, Mocha
+* Post Graduate Diploma in Computer Forensics, University of Westminster - 2008
+* Certified Information Systems Security Professional (CISSP) - 2009
+* Certified Ethical Hacker (CEH) - 2008
+* BSc (Hons) Computer Science, University of Hertfordshire - 1988 to 1992
 
 ## Career so far
 
