@@ -43,11 +43,18 @@ I enjoy:
 
 ## Qualifictions
 
-* Graduate of Makers Academy Ronin Cohort from October 2015 - January 2016
-* Post Graduate Diploma in Computer Forensics, University of Westminster - 2008
-* Certified Information Systems Security Professional (CISSP) - 2009
-* Certified Ethical Hacker (CEH) - 2008
-* BSc (Hons) Computer Science, University of Hertfordshire - 1988 to 1992
+**Graduate of Makers Academy Ronin Cohort from October 2015 - January 2016**
+* Curiosity and hungry passion for code
+* Independent learner and problem-solver
+* OOP, TDD, SOLID, MVC, DDD
+* Software Craftsmanship
+* Ruby, Rails, Javascript, Node.js, Angular.js
+* Rspec, Jasmine, Mocha
+
+**Post Graduate Diploma in Computer Forensics, University of Westminster - 2008**
+**Certified Information Systems Security Professional (CISSP) - 2009**
+**Certified Ethical Hacker (CEH) - 2008**
+**BSc (Hons) Computer Science, University of Hertfordshire - 1988 to 1992**
 
 ## Career so far
 
