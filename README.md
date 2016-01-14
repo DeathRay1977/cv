@@ -46,10 +46,12 @@ I enjoy:
 ## Qualifictions
 
 * Graduate of Makers Academy Ronin Cohort from October 2015 - January 2016
-   * Curiosity and hungry passion for code
-   * Independent learner and problem-solver
-   * OOP, TDD, SOLID, MVC, DDD
-   * Software Craftsmanship
+   * Object Oriented Programming
+   * Object Oriented Design
+   * Agile Development
+   * Test Driven Development 
+   * The SOLID principles of software development
+   * Model-View-Controller Architecture
    * Ruby, Rails, Javascript, Node.js, Angular.js
    * Rspec, Jasmine, Mocha
 * Post Graduate Diploma in Computer Forensics, University of Westminster - 2008
