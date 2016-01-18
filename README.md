@@ -57,7 +57,7 @@ I enjoy:
 * Post Graduate Diploma in Computer Forensics, University of Westminster - 2008
 * Certified Information Systems Security Professional (CISSP) - 2009
 * Certified Ethical Hacker (CEH) - 2008
-* BSc (Hons) Computer Science, University of Hertfordshire - 1988 to 1992
+* BSc (Hons) Computer Science, University of Hertfordshire - 1988 to 1992. Achieved a 2:2.
 
 ## Career so far
 
