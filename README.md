@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Last year, I tried something crazy! After working for 20 years in Banking software as a software engineer using mainly C++, I decided I wanted to attempt a Career shift into Web Development. Not a very big shift, I know! It is, however, a shift in technologies, culture, development practices and the way we think about and write software. I love to write software... Good software that is well written, easy to maintain and beautiful to read. 
+Last year, I tried something crazy! After working for 20 years in Banking software as a software engineer using mainly C++, I decided I wanted to attempt a Career shift into other areas of Software development. I love to write software... Good software that is well written, easy to maintain and beautiful to read. 
 
 Then something significant happened. The company I was working for (a big multi-national with thousands of employees Worldwide) was downsizing and offering an awesome severence package for those who wanted to take it. It seemed like the time was right to follow the dream. I said goodbye and turned my attention to what I really wanted to do. 
 
@@ -18,7 +18,11 @@ I have worked on software applications with very large line counts. I became ver
 
 ### C++ Programming
 
-I have coded in C++ for 17 years of my 20 career in software development. I also contributed to the open source Darkcoin (cryptocurrency) project which is written in C++.
+I have coded in C++ for 17 years of my 20 year career in software development. I also contributed to the open source Darkcoin (cryptocurrency) project which is written in C++.
+
+### Learning new languages
+
+I have taught myself many programming languages and paradigms during the last 20 years. Such as Elixir, Clojure and Python. I pick up new languages pretty quickly. This is because of my Computer Science background.
 
 ### Problem Solving
 
