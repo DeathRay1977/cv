@@ -12,24 +12,32 @@ Confucius once said *A man who loves his job never works a day in his life*
 
 ## Skills
 
-### Coding
+### Working with large codebases.
 
-I have worked at all levels of coding from that of a Graduate Developer up to Senior Developer over the last two decades.
+I have worked on software applications with very large line counts. I became very skilled at managing complex merges and integration testing of new functionality into those codebases. The products I worked at Visa Europe and ACI where both over 300,000 lines of code and rising each day. This code was being contibuted to by over 100 developers.
+
+### C++ Programming
+
+I have coded in C++ for 17 years of my 20 career in software development. I also contributed to the open source Darkcoin (cryptocurrency) project which is written in C++.
 
 ### Problem Solving
 
 I enjoy: 
 
 * Finding those elusive bugs in code. 
-* Devising creative solutions to hard to solve problems.
+* Devising creative solutions to hard to solve problems. 
+
+### Refactoring code
+
+I enjoy refactoring code to make it perform better. One such project was when I worked at Visa Europe and refactored C++ class to optimise system performance to handle ever increasing transaction volumes. Transaction throughput in the system went up by 150%.
 
 ### Mentoring
 
 * Mentored junior developers in the effective use of the C++ programming language whilst working for ACI. 
 
-### Team Leading
+### Object Oriented Design
 
-* I have been team leader on medium to large size projects at both Visa Europe and ACI.
+* I have designed new features for applications at both ACI and Visa Europe and documented them using tools such as Rational Rose and UML.
 
 ### Examples of my work
 
@@ -62,14 +70,23 @@ I enjoy:
 ## Career so far
 
 **April 2015 – October 2015: Web and Application Support Officer, London Borough of Hounslow**
-Working in the Business Systems department providing support for essential systems used in the council to provide services to the public. I am particularly proud of the way I helped to keep an essential system that deals with vulnerable children up and running with 100% availability.
+* Working in the Business Systems department providing support for essential systems used in the council to provide services to the public. 
+* I am particularly proud of the way I helped to keep an essential system that deals with vulnerable children up and running with 100% availability.
 
 **2009 – June 2014: Lead Software Developer, Visa Europe, Reading**
-Lead Software Developer in the online transactions development team. A number of projects stand out for me as something that I can feel proud of. One such project was when I refactored C++ class to optimise system performance to handle ever increasing transaction volumes. Transaction throughput in the system went up by 150%.
+* Lead Software Developer in the online transactions development team. 
+* Worked on Online Credit Card processing applications.
+* Advised on Secure coding standards.
+* Worked on projects in both Java and C++.
+* Designed new functionality using UML.
+* Team leader on teams from 3 to 10 people.
 
 
 **1994 – 2009: Graduate Developer to Software Architect, ACI Worldwide (EMEA), Watford**
-My time at ACI allowed me to travel to lots of really cool places. My last project was to be part of a team tasked to create a new payments system for Visa Europe that would allow them to process credit card payments more efficiently. This allowed me to travel and work in sunny California for nine months. Thanks to the work of this team, the client now has a system built upon OOD and OOP that can be modified to add new functionality really easily.
+* Worked on software to interface with Automated Teller Machines and Point of Sale devices in C++ and some Java.
+* Mentored junior developers
+* Designed new functionality using UML.
+* Team leader on teams from 3 to 5 people.
 
 ## Obsessions
 
